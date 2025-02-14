@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Express js**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA OOP**
 
 - 📫 How to reach me **kirushnbalan1803@gmail.com**
 
